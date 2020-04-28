@@ -10,6 +10,16 @@
  A simple payload to take the screenshot of victims desktop and upload it to the C&C.
 </p>
 
+
+## DISCLAIMER
+
+<p align="center">
+  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+</p>
+
+The use of the Mr.Peter & its resources is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this software to test person or company without **WRITTEN PERMISSION** from them.
+
+
 ## Features:
 
  - Persistent (Using Registry Run Key)
@@ -58,9 +68,6 @@ Dim php As String = "yourphpfilename.php?" & "folder="
  - Changes all the variables
  - Obfuscate the code using Using [Obfuscar](https://github.com/obfuscar/obfuscar)
  - Change the Assembly information 
-
- ## Disclaimer:
-**This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
 
 ## License:
  [**GNU GENERAL PUBLIC LICENSE**](https://github.com/mrfr05t/Mr.Peter/blob/master/LICENSE) 
